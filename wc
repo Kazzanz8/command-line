@@ -1,0 +1,1 @@
+Wc for Word Count is used to count words, characters and lines depending on whcih option you choose. For example, wc -l filename will return how many lines in a file.
